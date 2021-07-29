@@ -1,6 +1,4 @@
-### GURDAYAL SINGH 
-Software and Web Developer 
-<hr>
+<img src="https://user-images.githubusercontent.com/47055530/127554267-af5466d9-5534-437a-b9ed-622e60fe6dcb.png" alt="gurus20" width="100%">
 
 ### Qualifications :
  **BCA** | ***Indira Gandhi National Open University*** .
@@ -13,11 +11,17 @@ Software and Web Developer
  - C
  - C++
 
-### Frame Works :
+### Framework :
  - Django
 
 ### Database :
  - MYSQL
+
+### Other Skills :
+ - Graphics Designing
+ - Canva
+ - Inkscape
+ - Gimp
  
 <hr> 
 
@@ -33,10 +37,6 @@ Software and Web Developer
 <a href="https://github.com/gurus20">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurus20&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues" />
 </a>
-
-<hr>![GURDAYAL SINGH (2)](https://user-images.githubusercontent.com/47055530/127554253-fd804427-a482-4afd-9737-deeb6cdbbf60.png)
-![GURDAYAL SINGH (2)](https://user-images.githubusercontent.com/47055530/127554267-af5466d9-5534-437a-b9ed-622e60fe6dcb.png)
-
 
 <!--   <p align="center">
     <a href="https://www.linkedin.com/in/rahul-singh-432555194" alt="Linkedin"><img src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/linkedin.png"></a>
