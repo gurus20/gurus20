@@ -9,10 +9,11 @@
 #### Programming Languages
  - Python
  - C
- - C++
+ - C#
 
 ### Framework :
  - Django
+ - C# wpf
 
 ### Database :
  - MYSQL
@@ -29,6 +30,28 @@
 [Myfitnesscounter](www.myfitnesscounter.com)
 
 [Cargo Management System](https://github.com/code-art7/project)
+
+<hr> 
+
+### Frontend Work :
+
+[BracketCoders](http://www.bracketcoders.com/)
+
+<img src="https://raw.githubusercontent.com/gurus20/gurus20/main/Screenshot%20from%202021-09-14%2020-58-03.png" width="80%">
+
+
+
+[https://gurus20.github.io/](https://gurus20.github.io/)
+
+<img src="https://raw.githubusercontent.com/gurus20/gurus20/main/Screenshot%20from%202021-09-14%2020-55-38.png" width="80%">
+
+
+
+[MyFitnessCounter](http://myfitnesscounter.com/)
+
+<img src="https://raw.githubusercontent.com/gurus20/gurus20/main/Screenshot%20from%202021-09-14%2020-56-20.png" width="80%">
+
+
 
 
 <a href="https://github.com/gurus20">
