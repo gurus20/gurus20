@@ -8,21 +8,14 @@
 ### Technical Skills :
 #### Programming Languages
  - Python
- - C
- - C#
+ - C++
+ - Javascript
 
 ### Framework :
  - Django
- - C# wpf
 
 ### Database :
  - MYSQL
-
-### Other Skills :
- - Graphics Designing
- - Canva
- - Inkscape
- - Gimp
  
 <hr> 
 
