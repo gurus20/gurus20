@@ -8,7 +8,7 @@
   <a href="gurdayal.s.20@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.ocm/in/gurus20" target="_blank">
+  <a href="https://linkedin.com/in/gurus20" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/guru_s20" target="_blank">
@@ -59,7 +59,7 @@
 <br>
 
 <h3 align="center">👷🏻 Projects and Work</h3>
-<h4 align="center">Bracketcoders | <a href="https://bracketcoders.com">Bracketcoders.com</a> </h4>
+<h4 align="center">Bracketcoders | <a href="https://bracketcoders.com" target="_blank">Bracketcoders.com</a> </h4>
 <p align="center">BracketCoders is a beginner-friendly learning portal for coding enthusiasts.<br>The project offers a diverse range of features, including blogs and articles,<br>project-based learning systems, various web tools, templates, source codes, an online editor, and more.</p>
 
 <br>
