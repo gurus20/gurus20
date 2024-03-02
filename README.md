@@ -1,4 +1,4 @@
-<p align="center">Hello! I am Gurdayal Singh</p>
+<img src="https://raw.githubusercontent.com/gurus20/gurus20/master/GURDAYAL%20SINGH%20(2).png" alt="feature image" width="100%">
 
 <h4 align="center">- Passionate developer👨‍💻 crafting efficient solutions -<br>- Proficient in various languages and frameworks -<br>- Committed to learning and driving innovation.🛰🎯 -</h4>
 <br>
