@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hello! I am Gurdayal Singh</h1>
 
 <h4 align="center">- Passionate developer👨‍💻 crafting efficient solutions -<br>- Proficient in various languages and frameworks -<br>- Committed to learning and driving innovation.🛰🎯 -</h4>
@@ -68,11 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gurus20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurus20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/gurus20/count.svg?"  />
 </div>
 
-###
